@@ -11,9 +11,9 @@ Each project demonstrates my skills in **data analysis, machine learning, and bu
 - **Role:** Group Leader (Course Project, University of Toronto)  
 - **Tech Stack:** Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
 - **Highlights:**  
-  - Preprocessed and analyzed a **20,000+ record housing dataset**  
-  - Built regression and decision tree models to predict housing prices  
-  - Applied clustering to segment neighborhoods by socio-economic and geographic trends  
+  - Preprocessed and analyzed a **20,000+ record housing dataset**.  
+  - Built regression and decision tree models to predict housing prices.  
+  - Applied clustering to segment neighborhoods by socio-economic and geographic trends.  
 - 📌 [View Project Folder](https://github.com/Monanihao/Projects/tree/main/Housing_Prices_California)
 
 ---
