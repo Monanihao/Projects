@@ -19,13 +19,12 @@ Each project demonstrates my skills in **data analysis, machine learning, and bu
 ---
 
 ### 2. 🎬 Estimation of Movie’s Worldwide Gross Revenue
-- **Role:** Student Researcher (Course Project, INF1344: Introduction to Statistics for Data Science)  
+- **Role:** Student Researcher 
 - **Tech Stack:** R (RStudio, Stats, ggplot2, dplyr)  
 - **Highlights:**  
-  - Collected and cleaned a Kaggle dataset of 100 movies (2003–2022)  
-  - Conducted **descriptive statistics and exploratory visualizations** to identify key drivers of box office success (runtime, budget, IMDb ratings, certificates)  
-  - Built a **multiple regression model in R**, finding runtime, ratings, budget, and certification significantly affect global gross revenue:contentReference[oaicite:1]{index=1}  
-  - Standardized currency units and applied log transformations to handle skewed distributions  
+  - Designed and implemented a regression-based predictive model to estimate global box office revenue.  
+  - Identified runtime, budget, and IMDb ratings as **key revenue drivers**.  
+  - Standardized data across currencies and variables, improving model performance.  
 - 📌 [View Project Folder](https://github.com/Monanihao/Projects/tree/main/Movie_Revenue_Estimation)
 
 ---
