@@ -12,32 +12,33 @@ Each project demonstrates my skills in **data analysis, machine learning, and bu
 - **Tech Stack:** Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
 - **Highlights:**  
   - Preprocessed and analyzed a **20,000+ record housing dataset**  
-  - Built regression and decision tree models achieving strong predictive accuracy  
-  - Applied clustering to segment neighborhoods by socio-economic and geographic trends, providing actionable insights for investors and policymakers  
+  - Built regression and decision tree models to predict housing prices  
+  - Applied clustering to segment neighborhoods by socio-economic and geographic trends  
 - 📌 [View Project Folder](https://github.com/Monanihao/Projects/tree/main/Housing_Prices_California)
 
 ---
 
 ### 2. 🎬 Estimation of Movie’s Worldwide Gross Revenue
-- **Role:** Student Researcher  
-- **Tech Stack:** Python (Statsmodels, Scikit-learn), Data Cleaning  
+- **Role:** Student Researcher (Course Project, INF1344: Introduction to Statistics for Data Science)  
+- **Tech Stack:** R (RStudio, Stats, ggplot2, dplyr)  
 - **Highlights:**  
-  - Designed and implemented a regression-based predictive model to estimate global box office revenue  
-  - Identified runtime, budget, and IMDb ratings as key revenue drivers  
-  - Standardized data across currencies and variables, improving model performance  
+  - Collected and cleaned a Kaggle dataset of 100 movies (2003–2022)  
+  - Conducted **descriptive statistics and exploratory visualizations** to identify key drivers of box office success (runtime, budget, IMDb ratings, certificates)  
+  - Built a **multiple regression model in R**, finding runtime, ratings, budget, and certification significantly affect global gross revenue:contentReference[oaicite:1]{index=1}  
+  - Standardized currency units and applied log transformations to handle skewed distributions  
 - 📌 [View Project Folder](https://github.com/Monanihao/Projects/tree/main/Movie_Revenue_Estimation)
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages:** Python, R, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn  
-- **Tools:** Tableau, Power BI, Jupyter Notebooks, Git  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Statsmodels, ggplot2, Matplotlib, Seaborn  
+- **Tools:** Tableau, Power BI, Jupyter Notebooks, RStudio, Git  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Graduate Student in **Human-Centred Data Science**, University of Toronto  
+- 🎓 Graduate Student in **Human Centred Data Science**, University of Toronto  
 - 📌 Interested in **data-driven strategy, analytics, and financial services**  
 - 🌐 [LinkedIn Profile](https://linkedin.com/in/hao-mona-ni)  
 
